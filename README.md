@@ -1,7 +1,7 @@
 # EEE-3210_Microprocessor-Lab_Project
 ### Prioject Name: AGRISTAND - Climate Monitoring Device Connected with Cloud based on IoT
 
-###Abstract
+### Abstract
 
 Agriculture remains the most important sector of Bangladeshi economy, contributing 19.6 percent to the national GDP and providing employment for 63 percent of the population. Agriculture in Bangladesh is heavily dependent on the weather, and the entire harvest can be wiped out in a matter of hours when cyclones hit the country. According to the World Bank, the total arable land in Bangladesh is 61.2 percent of the total land area (down from 68.3 percent in 1980). Currently 4th Industrial Revolution (4IR) is one of the most discussed issues in Bangladesh. This is why, Agriculture sector in Bangladesh is developing by digitalization with AI, Data analysis & Machine Learning,
 AGRISTAND is a climate monitoring device by uses AI and microelectronics groundbreaking for farmers, soil scientists, and environmental scientists containing microprocessors, sensors, proper databases, and many other components. This device should be available for cultivation because it will properly assist the farmers to have knowledge about the condition of the soil and climate by testing air humidity, temperature, and soil moisture, field rainfall, atmospheric Pressure. By using this data analyzing it properly and giving the proper information about cultivation to farmers about their land quality and telling them how much fertilization they will have to use on their land and how much yield they will get. it also helps soil scientists and environmental scientists. The whole processed data and results will show on a Mobile App installed on a smartphone and also on the Website.
